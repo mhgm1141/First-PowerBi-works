@@ -1,4 +1,4 @@
-# First PowerBi works
+# data-professionals-salary-analysis
 Interactive Power BI dashboard analyzing salaries, tools, and job satisfaction of 630 data professionals.
 
 Good day :)
